@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: happy
 title: About Me
-permalink: /about/
+permalink: /about
 ---
 
 I was born and brought up in India. I moved to the United States for college in 2014 and ended up staying for close to 8 years.

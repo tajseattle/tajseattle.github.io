@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About Default
+layout: happy
+title: Default
 permalink: /default
 ---
 

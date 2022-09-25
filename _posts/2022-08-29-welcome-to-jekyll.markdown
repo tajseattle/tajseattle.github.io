@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: tanmay
 date:   2022-08-29 07:56:42 +0530
 categories: jekyll update
 ---
