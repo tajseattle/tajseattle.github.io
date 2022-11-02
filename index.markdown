@@ -1,5 +1,5 @@
 ---
-layout: happy
+layout: home
 title: Home
 permalink: 
 ---

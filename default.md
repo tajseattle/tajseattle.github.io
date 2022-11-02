@@ -1,5 +1,5 @@
 ---
-layout: happy
+layout: default
 title: Default
 permalink: /default
 ---
