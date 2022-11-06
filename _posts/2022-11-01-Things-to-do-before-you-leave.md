@@ -7,16 +7,16 @@ categories: predeparture checklist
 ---
 Congratulations on the decision to move back. Moving to India is a logistical challenge, especially if you have been in the US for a few years. One important aspect of planning is creating fail-safes, i.e., methods to deal with mistakes/changes after you have already left the US. With that in mind, there are some things that you should try to do couple of months in advance -
  
-1. Maintaining your phone number
-2. Bank, Brokerage and Retirement accounts
-3. Credits Cards
-4. Mail forwarding
-5. Renew id/dl
-6. NRE/NRO accounts
-7. Special Note: Retirement accounts
-8. Health Savings account
+1. [Maintaining your phone number](#phone)
+2. [Bank, Brokerage and Retirement accounts](#brokerage)
+3. [Credits Cards](#credit-cards)
+4. [Mail forwarding](#mail)
+5. [Renew id/dl](#renew)
+6. [NRE/NRO accounts](#nre)
+7. [Special Note: Retirement accounts](#retirement)
+8. [Health Savings account](#hsa)
 
-## Maintaining your phone number/Two factor authentication
+## **1. Maintaining your phone number/Two factor authentication** {#phone}
 
 Two factor authentication can be a big headache when moving countries, since most institutions expect a local phone number for 2FA SMS. Here are some tips: 
 
@@ -46,7 +46,7 @@ So in a nutshell, here is the recommended flow. Port your primary number to Goog
 
   
 
-## Brokerage, Retirement and Bank accounts
+## **2. Brokerage, Retirement and Bank accounts** {#brokerage}
 	
 Assuming you don't have a green card or a US passport, your tax status will likely change to non-resident alien after you leave (typically starting the next tax year). This will affect taxation, whether you can keep your existing accounts open etc. With that in mind: 
 	
@@ -83,14 +83,14 @@ Assuming you don't have a green card or a US passport, your tax status will like
 <br><br/>
 5. **Note** - you have to let your bank/brokerage know of your nonresident status via a Form W8-BEN. It is critical you do this correctly, since nonresident taxation works differently. This is discussed in more detail in the Financial Stuff section
 
-## Credit cards
+## **3. Credit cards** {#credit-cards}
 1. Most US credit cards no longer work in India, even if they are marketed as having zero foreign transaction fees cards. This is due to RBI regulations, and your bank will be unable to tell you if your card will work in India or not.
 
 2. Get Amex cards with zero foreign transaction fees - In my experience, only American Express cards (directly issued by Amex, so not Bread Cashback) will work in India. This is because they use 2 factor authentication. While coverage is not 100% (not all websites accept them, and some point of sale machines don’t support amex), you still get ~70% coverage so it is still very useful if you haven't transferred too much cash to India and wish to keep your money in dollars. Most importantly, they work on Amazon, Uber, Ola and BlinkIt. These form the bulk of my regular expenditures, so it's quite useful to be able to use an American credit card here (at least initially).The exchange rates are extremely good, much better than normal bank transfer rates.
     - **Update** - Looks like some Mastercards are working again. My CapitalOne Platinum Mastercard is working in India now.
 
 
-## Mail Forwarding
+## **4. Mail Forwarding** {#mail}
 
 1. Ask a trusted friend/relative if you can use their address to forward some important mail. This is very useful at least temporarily, especially if they are in the same zip code. Update your address to theirs for any important subscriptions/accounts
 
@@ -98,17 +98,17 @@ Assuming you don't have a green card or a US passport, your tax status will like
 
 3. If you sign up for informed delivery, you will also receive a scan of any mail/packages addressed to you
 
-## Renewal ID/DL
+## **5. Renewal ID/DL** {#renew}
 Renew any expiring Drivers License/ID/credit cards before leaving if possible. This will save you some hassle if you move back within a few years
 
-## Open NRE account 
+## **6. Open NRE account** {#nre} 
 If you don’t have a NRE/NRO account already, open one before you leave. It lets you hold money in INR with an Indian bank. The process is cumbersome and time consuming, so start early. I recommend you open an account each with ICICI and HDFC. You will have to get notarized copies of several documents like passport, visa, proof of address etc. ICICI is happy with scanned copies, while HDFC arranges a physical pickup of notarized copies. Once you return permanently to India, you are required to convert your accounts to domestic bank accounts. The money in your NRE account will lose its repatriability once that is done, so it is a good idea to keep the bulk of your assets in the US and transfer it to a RFC account (discussed in the financial stuff section) once you are an Indian resident.
 
-## Special Note: Retirement accounts
+## **7. Special Note: Retirement accounts** {#retirement}
 
 I will talk about this in greater detail in the financial stuff section. Please consult a tax advisor specializing in non-resident taxation. Basically, if you are going to do a rollover from traditional to Roth, you might want to do it as a US resident. Once you are a non-resident, there is mandatory withholding while doing the rollover, and the withholding itself counts as a unqualified distribution so it will incur early withdrawal penalty.
 
-## Health Savings Account
+## **8. Health Savings Account** {#hsa}
 
 Roll over your HSA to a provider that does not charge maintenance fees (e.g. Fidelity). Sometimes this process requires you to sign and send forms, so best start it early. At least with Fidelity, the entire process was online but I had to call in since there was some backend issue. Fidelity also typically lets you upload scanned documents instead of mailing them physically
 
