@@ -2,7 +2,7 @@
 layout: post
 title:  "Financial Stuff"
 author: tanmay
-date:   2022-11-01 07:56:42 +0530
+date:   2022-11-01 01:10:00 +0530
 categories: Financials 401k Bank Brokerage
 ---
 

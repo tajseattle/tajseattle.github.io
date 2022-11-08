@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Things to do before you move"
+title:  "Things To Do Before You Leave"
 author: tanmay
-date:   2022-11-01 07:56:42 +0530
+date:   2022-11-01 01:00:00 +0530
 categories: predeparture checklist
 ---
 Congratulations on the decision to move back. Moving to India is a logistical challenge, especially if you have been in the US for a few years. One important aspect of planning is creating fail-safes, i.e., methods to deal with mistakes/changes after you have already left the US. With that in mind, there are some things that you should try to do couple of months in advance -
