@@ -2,8 +2,6 @@
   link: /
 - name: About
   link: /about
-- name: default
-  link: /default
 - name: Blog
   link: /blog
 - name: Staff

@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Financial Stuff"
+title:  "Financial Planning"
 author: tanmay
 date:   2022-11-01 01:10:00 +0530
 categories: Financials 401k Bank Brokerage
 ---
-
 
 This article describes my experience with financial planning when returning to India. In general, it's a good idea to diversify your assets by having exposure to different currencies and economies . If one country makes bad economic decisions, you will still have assets in a different currency to help tide you over. For this reason, I wanted to spread my assets and savings between US and India. Here is my experience when evaluating different asset classes and factors
 
@@ -88,7 +87,7 @@ What to do with your 401(k), Roth 401(k), IRA, Roth IRA? This is a complicated t
 
 		**Note** - You still lose 15 percent via indirect withholding tax on dividends paid by the US security to the Ireland domiciled ETF, but that is still less than 30 percent you would lose with an equivalent US domiciled ETF (25 percent for Indians due to India-US DTAA). Moreover, you don't have to handle this tax yourself, since it will be handled by the Irish ETF on their end. As long as you are nonresident in Ireland, Ireland won't impose any taxes/withholdings on dividends distributed by the Irish domiciled ETF to you. [Link to further reading](https://www.bogleheads.org/wiki/Nonresident_alien_investors_and_Ireland_domiciled_ETFs#Multiple_levels_of_dividend_tax_withholding)
 
-	4. Investing in these also saves you from the **estate tax trap**, discussed more in detail in the estate tax section
+	4. Investing in these also saves you from the **estate tax trap**, discussed more in detail in the [estate tax section](#Estate-Taxes)
 
 	5. By choosing Irish domiciled funds, you also get the freedom to invest in **accumulating ETFs** (eg VUAA, the accumulating version of VUSD). I haven't cross checked this my CPA yet, but this likely means you won't have to report and pay tax on these dividends to the **Indian** government either, since the dividends don’t get distributed to you. They simply get reinvested into the fund, increasing your NAV. You will eventually pay capital gains tax on this amount when you sell your shares, so the main benefit is it removes the hassle of calculating and reporting dividends every year. US domiciled ETFs and mutual funds have to distribute at least 90% of their income to shareholders, so this option is not available there.
 		- The 15% international withholding tax/dividend tax leakage will still apply here
@@ -108,7 +107,7 @@ This one is probably the easiest. Continue to hold it as-is, and maybe turn the 
 
 These have been discussed elsewhere, but here is a quick recap
 
-1. Open brokerage and retirement accounts with Schwab One, IBKR and TD Ameritrade. They will let you maintain them once you are a non-resident and having multiple ones lets you roll over your assets in case one institution stops catering to nonresidents. You will not be able to open new accounts once you are a non resident
+1. Open brokerage and retirement accounts with Schwab One, IBKR and TD Ameritrade. They will let you maintain them once you are a non-resident and having multiple ones lets you roll over your assets in case one institution stops catering to nonresidents. **You will not be able to open new accounts once you are a non resident**
 
 	- Once you become a non-resident, notify your brokerage and bank by giving them a W8-BEN. This is crucial, and should be done at the beginning of the year. This lets them make sure their withholdings are correct (zero for capital gains) and that they don't generate incorrect tax forms (I believe a nonresident gets a 1042S instead of 1099B etc.)
 	<br><br/>
@@ -118,4 +117,6 @@ These have been discussed elsewhere, but here is a quick recap
 	- As an alternative use the checking account feature from your brokerage. Brokerages like Fidelity, Schwab One etc offer this feature and are more compatible with nonresident aliens and google voice than most banks. In fact, IBKR let me use an international phone number for 2FA.
 	
 	- A second alternative to simply continuing to hold USD deposits with Indian banks is RFC accounts
+
+3. Indian government does not prevent you from holding overseas bank, investment or retirement accounts. Taxation can get a little complicated depending on your residential status and tax treaties, but you should be able to continue holding most of your US assets as long as the service provider (bank/investment firm) serves nonresident aliens.
 

@@ -8,13 +8,11 @@ categories: predeparture checklist
 Congratulations on the decision to move back. Moving to India is a logistical challenge, especially if you have been in the US for a few years. One important aspect of planning is creating fail-safes, i.e., methods to deal with mistakes/changes after you have already left the US. With that in mind, there are some things that you should try to do couple of months in advance -
  
 1. [Maintaining your phone number](#phone)
-2. [Bank, Brokerage and Retirement accounts](#brokerage)
+2. [Bank, Brokerage, Retirement and HSA accounts](#brokerage)
 3. [Credits Cards](#credit-cards)
 4. [Mail forwarding](#mail)
 5. [Renew id/dl](#renew)
 6. [NRE/NRO accounts](#nre)
-7. [Special Note: Retirement accounts](#retirement)
-8. [Health Savings account](#hsa)
 
 ## **1. Maintaining your phone number/Two factor authentication** {#phone}
 
@@ -26,7 +24,7 @@ Two factor authentication can be a big headache when moving countries, since mos
 	
 	- **Note regarding short codes** - When you get SMS from most institutions, the caller id is a 5 digit number instead of a regular 10 digit phone number. These are short codes, and most VOIP numbers don't guarantee operability with short codes. In practice, Google Voice seems to work with almost all short codes for receiving SMS other than Chase bank. A quick way to check if a particular short code works with GV is to send 'HELP' to that short code from your GV number. If you get a response back, then it works. For instance, Schwab's short code for OTP is 94960. If you send HELP to this short code, you will get back an automated text.
 
-2. **Ultramobile** - Ultramobile has a very affordable pay as you go plan (roughly $3 per month) which works great internationally. You have to order a sim from their Ebay store (link). It takes a few days to get delivered, so order it well in advance. Make sure to activate in the US and enable WiFi calling, and then add it to all your bank/brokerage accounts as secondary number. In case you later discover Google Voice doesn't work for any of your accounts, you can use this number. Make sure to enable WiFi calling, since network coverage can be iffy outside the US and you don’t have to pay the international roaming rates on WiFi for sms/calls.
+2. **Ultramobile** - Ultramobile has a very affordable pay as you go plan (roughly $3 per month) which works great internationally. You have to order a [sim from their Ebay store](https://www.ebay.com/itm/284346097281). It takes a few days to get delivered, so order it well in advance. Make sure to activate in the US and enable WiFi calling, and then add it to all your bank/brokerage accounts as secondary number. In case you later discover Google Voice doesn't work for any of your accounts, you can use this number. Make sure to enable WiFi calling, since network coverage can be iffy outside the US and you don’t have to pay the international roaming rates on WiFi for sms/calls.
 	
 	- **Note** - Most financial institutions will let you add a secondary number, typically as a landline or office phone number. A few institutions will let you send 2FA texts to more than one number ( eg. Fidelity and CapitalOne), but they will let you receive verification calls on your second number. At the very least, if you call in to customer service with your secondary number, they can auto-verify you. 
 	
@@ -46,13 +44,13 @@ So in a nutshell, here is the recommended flow. Port your primary number to Goog
 
   
 
-## **2. Brokerage, Retirement and Bank accounts** {#brokerage}
+## **2. Bank, Brokerage, Retirement and HSA accounts** {#brokerage}
 	
-Assuming you don't have a green card or a US passport, your tax status will likely change to non-resident alien after you leave (typically starting the next tax year). This will affect taxation, whether you can keep your existing accounts open etc. With that in mind: 
+Assuming you don't have a green card or a US passport, your tax status will likely change to non-resident alien after you leave (typically starting the next tax year). This will affect taxation, whether you can keep your existing accounts open etc ([read more in the Financial Planning section]({% post_url 2022-11-01-Financial-Planning %}#US-Assets)). With that in mind: 
 	
-1. **Open spare bank and brokerage accounts before leaving** - Once you are a nonresident, most banks won’t let you open new accounts, and some will force you to close your existing accounts. Finding out which ones allow you to keep your existing accounts open is a crapshoot, and I personally had to spend a few hours on the phone with each bank to get an answer(Customer service typically doesn't know, and they have to connect you to the back office). Having extra accounts gives you the flexibility to rollover funds/stocks in case one of your existing institutions closes your accounts.
+1. **Open spare bank, brokerage and retirement accounts before leaving** - Once you are a nonresident, most banks won’t let you open new accounts, and some will force you to close your existing accounts. Finding out which ones allow you to keep your existing accounts open is a crapshoot, and I personally had to spend a few hours on the phone with each bank to get an answer(Customer service typically doesn't know, and they have to connect you to the back office). Having extra accounts gives you the flexibility to rollover funds/stocks in case one of your existing institutions closes your accounts.
 
-    - Here are some that I know will let you keep a bank/brokerage account open as a nonresident: 
+    - Here are some that I know will let you keep a bank/brokerage/retirement account open as a nonresident: 
 
         - Chase
         - Schwab One (there is some issue around non Schwab One accounts with Charles Schwab)
@@ -70,7 +68,7 @@ Assuming you don't have a green card or a US passport, your tax status will like
         - RobinHood
         - M1 Finance <br><br/> 
 	
-    I would highly recommend opening bank, brokerage and retirement accounts (401k, roth IRA, traditional IRA etc) with at least Schwab, IBKR and TD Ameritrade. **If any of these institutions change their policies in the future, you want the option of rolling over your assets to a different provider**. If you don’t have a secondary account (and at that point it will be pretty hard to open one as a non-resident), then you will have to liquidate and transfer your balances and that will involve tax bills around capital gains (and possible locking in losses). If you are rolling over assets like stocks, make sure to specify you want an **in-kind transfer** so that your securities are rolled over as-is (without liquidation).
+    **I would highly recommend opening bank, trading, and retirement(one each of Rollover IRA, Roth IRA and Traditional IRA) accounts with at least Schwab, IBKR and TD Ameritrade. If any of your current providers change their policies in the future, you want the option of rolling over your assets to a different provider**. If you don’t have a secondary account (and at that point it will be pretty hard to open one as a non-resident), then you will have to liquidate and transfer your balances and that will involve tax bills around capital gains (and possibly locking in losses). If you are rolling over assets like stocks, make sure to specify you want an **in-kind transfer** so that your securities are rolled over as-is (without liquidation).
 	
 2. Link your Ultramobile number to your banks as a secondary number
 	- **Note** - IBKR and Ameritrade let you link an Indian phone number for 2FA
@@ -81,12 +79,20 @@ Assuming you don't have a green card or a US passport, your tax status will like
 	 
      - Schwab debit cards let you withdraw money anywhere in the world without any foreign transaction or ATM charges. Make sure to get one of these before leaving
 <br><br/>
-5. **Note** - you have to let your bank/brokerage know of your nonresident status via a Form W8-BEN. It is critical you do this correctly, since nonresident taxation works differently. This is discussed in more detail in the Financial Stuff section
+5. **Note** - you have to let your bank/brokerage know of your nonresident status via a Form W8-BEN. It is critical you do this correctly, since nonresident taxation affects how taxes are withheld. This is discussed in more detail in the [Financial Planning section]({% post_url 2022-11-01-Financial-Planning %}).
+
+6. **Special Note: Retirement accounts**
+
+    I will talk about this in greater detail in the [Financial Planning Section]({% post_url 2022-11-01-Financial-Planning %}#Retirement-Accounts). Please consult a tax advisor specializing in non-resident taxation. Basically, if you are going to do a rollover from traditional to Roth, you might want to do it as a US resident. Once you are a non-resident, there is mandatory withholding while doing the rollover, and the withholding itself counts as a unqualified distribution so it will incur early withdrawal penalty.
+
+7. **Special Note: Health Savings Account** 
+
+    Roll over your HSA to a provider that does not charge maintenance fees (e.g. Fidelity). Sometimes this process requires you to sign and send forms, so best start it early. At least with Fidelity, the entire process was online but I had to call in since there was some backend issue. Fidelity also typically lets you upload scanned documents instead of mailing them physically. [Further reading in the Financial Planning section]({% post_url 2022-11-01-Financial-Planning %}#Health-Savings-Account).
 
 ## **3. Credit cards** {#credit-cards}
 1. Most US credit cards no longer work in India, even if they are marketed as having zero foreign transaction fees cards. This is due to RBI regulations, and your bank will be unable to tell you if your card will work in India or not.
 
-2. Get Amex cards with zero foreign transaction fees - In my experience, only American Express cards (directly issued by Amex, so not Bread Cashback) will work in India. This is because they use 2 factor authentication. While coverage is not 100% (not all websites accept them, and some point of sale machines don’t support amex), you still get ~70% coverage so it is still very useful if you haven't transferred too much cash to India and wish to keep your money in dollars. Most importantly, they work on Amazon, Uber, Ola and BlinkIt. These form the bulk of my regular expenditures, so it's quite useful to be able to use an American credit card here (at least initially).The exchange rates are extremely good, much better than normal bank transfer rates.
+2. Get Amex cards with zero foreign transaction fees - In my experience, only American Express cards (directly issued by Amex, so not Bread Cashback) will work in India. This is because they use 2 factor authentication. While coverage is not 100% (not all websites accept them, and some point of sale machines don’t support amex), you still get ~70% coverage so it is still very useful if you haven't transferred too much cash to India and wish to keep your money in dollars. Most importantly, they work on Amazon, Uber, Ola and BlinkIt. These form the bulk of my regular expenditures, so it's quite useful to be able to use an American credit card here (at least initially). The exchange rates are extremely good, much better than normal bank transfer rates.
     - **Update** - Looks like some Mastercards are working again. My CapitalOne Platinum Mastercard is working in India now.
 
 
@@ -102,15 +108,8 @@ Assuming you don't have a green card or a US passport, your tax status will like
 Renew any expiring Drivers License/ID/credit cards before leaving if possible. This will save you some hassle if you move back within a few years
 
 ## **6. Open NRE account** {#nre} 
-If you don’t have a NRE/NRO account already, open one before you leave. It lets you hold money in INR with an Indian bank. The process is cumbersome and time consuming, so start early. I recommend you open an account each with ICICI and HDFC. You will have to get notarized copies of several documents like passport, visa, proof of address etc. ICICI is happy with scanned copies, while HDFC arranges a physical pickup of notarized copies. Once you return permanently to India, you are required to convert your accounts to domestic bank accounts. The money in your NRE account will lose its repatriability once that is done, so it is a good idea to keep the bulk of your assets in the US and transfer it to a RFC account (discussed in the financial stuff section) once you are an Indian resident.
+If you don’t have a NRE/NRO account already, open one before you leave. It lets you hold money in INR with an Indian bank. The process is cumbersome and time consuming, so start early. I recommend you open an account each with **ICICI and HDFC**. You can start the process online. You will have to get notarized copies of several documents like passport, visa, proof of address etc. ICICI is happy with scanned copies, while HDFC arranges a physical pickup of notarized copies. Once you return permanently to India, you are required to convert your accounts to domestic bank accounts. The money in your NRE account will lose its repatriability once that is done, so it is a good idea to keep the bulk of your assets in the US and transfer it to a [RFC Savings Account]({% post_url 2022-11-01-Indian-Banks%}#rfc) once you are an Indian resident.
 
-## **7. Special Note: Retirement accounts** {#retirement}
-
-I will talk about this in greater detail in the financial stuff section. Please consult a tax advisor specializing in non-resident taxation. Basically, if you are going to do a rollover from traditional to Roth, you might want to do it as a US resident. Once you are a non-resident, there is mandatory withholding while doing the rollover, and the withholding itself counts as a unqualified distribution so it will incur early withdrawal penalty.
-
-## **8. Health Savings Account** {#hsa}
-
-Roll over your HSA to a provider that does not charge maintenance fees (e.g. Fidelity). Sometimes this process requires you to sign and send forms, so best start it early. At least with Fidelity, the entire process was online but I had to call in since there was some backend issue. Fidelity also typically lets you upload scanned documents instead of mailing them physically
 
 
 

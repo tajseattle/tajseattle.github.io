@@ -4,11 +4,11 @@ title:  "First Few Days"
 author: tanmay
 date:   2022-11-01 02:10:00 +0530
 ---
-- [Funny Incidents](#funny)
-- [Negative Incidents](#negative)
-- [Positive Incidents](#positive)
+- [Funny Experiences](#funny)
+- [Negative Experiences](#negative)
+- [Positive Experiences](#positive)
 
-# **Funny Incidents** {#funny}
+# **Funny Experiences** {#funny}
 
 ## Drinking water
 
@@ -42,7 +42,7 @@ I like to call this my first reverse culture shock moment. I was at the supermar
 
 A few kids came to my flat in Lucknow for trick-or-treat. Apparently social media hasn't been the only US export around here.
 
-# **Negative Incidents** {#negative}
+# **Negative Experiences** {#negative}
 
 ## Banks
 
@@ -74,7 +74,7 @@ I was in Bangalore during the 2022 floods, and they took me by surprise. The imm
 
 While tech compensation has exploded in India, the work hours also seem to be quite long. Most people I know end up working 10 hour days regularly, and evening calls/meetings seem to be the norm. Periods of heavy loads mean 12-14 hour days. Burnout seems to be rampant, and I have noticed a surprising amount of people willing to quit these very high paying jobs (50 - 70 lakhs) to take a break.
 
-# **Positive Incidents** {#positive}
+# **Positive Experiences** {#positive}
 
 Power cuts have become very rare. At least in Lucknow, cleanliness and road conditions are quite good. Mobile internet and broadband speeds are comparable to the US. Ubers and Olas are cheap and plentiful
 In Bangalore, power cuts are also very rare, and cleanliness is still pretty decent.

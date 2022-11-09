@@ -20,19 +20,9 @@ While the promised speeds for home internet are 100-200 MBPS, in reality you get
 
 Prices for most things have roughly doubled from 2018 (last time I was in India) to 2022 (the year I moved back). This is mostly based on my anecdotal experience and not the consumer price index. My haircut has gone from 50 to 100, my uber to a friend’s place from 50 to 100 and even my pears soap has gone from 45 to 90. Despite these prices being quite low in dollar terms, I was getting some serious sticker shock. This is something I had not expected. Oh also, scooties like Honda Activa have gone from 50K to 1 lakh.
 
-## UPI
+## UPI 
 
 UPI was still in its infancy in 2018. Post demonetization, my friends and family had finally started using their debit cards but still preferred cash when possible. Now, no one uses cash anymore. Card coverage has increased, but UPI is the undisputed king. From your local vegetable hawker all the way to Apple’s App store, UPI is the payment method of choice. 
-
-For the uninitiated, UPI stands for Unified Payments Interface. It is a payments standard that works by using your phone number (linked to your bank accounts) as your identity, and QR codes to send and receive money. While I was initially skeptical (as I am about anything linked to my bank account), I am quite impressed by how well it works. Once you enable UPI for your bank account, you can use any of the payment apps like Paytm or Google pay. They are all interchangeable. On the security end, there are some really nice design decisions like - 
-
-1. **Pin** - Having a security pin to authorize each transaction
-2. **Outbound verification instead of OTP** - Your phone number is crucial to UPI transactions. It has to be the number linked to your bank account. To sign up/sign in/validate anything, you have to send an automated (and very long) text message simultaneously to two different numbers within seconds of initiation. This makes it significantly harder for someone to fool you into sharing an OTP.
-3. **Single device login** - Only login to one device at a time (so you cant be logged into google pay on two separate devices)
-	
-Based on a combination of these 3, it seems at least as secure as using a debit card to me. 
-
-**Note** - Unfortunately UPI does not work with NRE/NRO accounts since they use non-Indian phone numbers. Once you get your accounts converted, you will be able to use UPI. Until then, carry a debit card and cash with you.
 
 ## Home delivery
 
