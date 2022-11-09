@@ -11,7 +11,7 @@ Congratulations on the decision to move back. Moving to India is a logistical ch
 2. [Bank, Brokerage, Retirement and HSA accounts](#brokerage)
 3. [Credits Cards](#credit-cards)
 4. [Mail forwarding](#mail)
-5. [Renew id/dl](#renew)
+5. [Renew ID/DL](#renew)
 6. [NRE/NRO accounts](#nre)
 
 ## **1. Maintaining your phone number/Two factor authentication** {#phone}
