@@ -2,7 +2,7 @@
 layout: post
 title:  "Cons for India (And Mitigations)"
 author: tanmay
-date:   2022-11-01 02:50:00 +0530
+date:   2022-11-01 02:50:00 -0600
 categories: Reasons move
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips And Tricks"
 author: tanmay
-date:   2022-11-01 01:20:00 +0530
+date:   2022-11-01 01:20:00 -0600
 categories: Tips Tricks
 ---
 

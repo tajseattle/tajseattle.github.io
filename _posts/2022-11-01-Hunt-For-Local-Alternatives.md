@@ -2,7 +2,7 @@
 layout: post
 title:  "Hunt For Local Substitutes"
 author: tanmay
-date:   2022-11-01 02:20:00 +0530
+date:   2022-11-01 02:20:00 -0600
 categories: Local Substitutes
 ---
 

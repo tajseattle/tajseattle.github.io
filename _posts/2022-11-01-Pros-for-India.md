@@ -2,7 +2,7 @@
 layout: post
 title:  "Pros For India"
 author: tanmay
-date:   2022-11-01 02:40:00 +0530
+date:   2022-11-01 02:40:00 -0600
 categories: Pros India
 ---
 

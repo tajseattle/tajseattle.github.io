@@ -2,7 +2,7 @@
 layout: post
 title:  "Financial Planning"
 author: tanmay
-date:   2022-11-01 01:10:00 +0530
+date:   2022-11-01 01:10:00 -0600
 categories: Financials 401k Bank Brokerage
 ---
 
