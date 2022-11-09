@@ -70,7 +70,7 @@ I use prepaid plans. Here are typical costs -
 
 ## Region Specific Apps and Subscriptions {#apps}
 
-Some mobile applications have India specific versions (eg Starbucks). You cannot access them unless you have India set as the home country on your app store. Changing your home country on Apple's App store is [quite straightforward](https://support.apple.com/en-in/HT201389) and can be done multiple times. I recommend creating a second apple id with its home set as the US, since you may have certain apps that are not available in India (eg CapitalOne, Google Voice). When you need to update these apps, simply sign out your apple ID and sign in with the US Apple ID. Its smoother than changing regions every time.
+Some mobile applications have India specific versions (eg Starbucks). You cannot access them unless you have India set as the home country on your app store. Changing your home country on Apple's App store is [quite straightforward](https://support.apple.com/en-in/HT201389) and can be done multiple times. I recommend creating a second Apple ID with its home country set as the US, since you may use certain apps that are not available in India (eg CapitalOne, Google Voice). When you need to update these apps, simply sign out of your apple ID and sign in with the US Apple ID. Its smoother than changing regions every time.
 
 For Google Play Store, you can only change your country once every 365 days so you need to be more cautious. Luckily for Android, most apps are available as APKs so you can directly install them even if they are unavailable on the Indian version of Play Store.
 
