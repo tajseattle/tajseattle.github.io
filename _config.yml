@@ -27,10 +27,13 @@ url: "http://tajseattle.com" # the base hostname & protocol for your site, e.g. 
 #twitter_username: tajseattle
 #github_username:  ""
 
+#Google Analytics ID
+google_analytics: G-FTKCS9WLW1
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 collections:
   authors:
