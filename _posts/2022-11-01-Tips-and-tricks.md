@@ -90,4 +90,4 @@ There are two major furniture renting websites - Furlenco and Rentomojo. These c
 
 ## Customs Duty Exemption {#customs}
 
-If you are returning to settle in India, you may qualify for a [customs duty exemption /reduction](https://www.globemoving.net/indian-import-customs-regulations). I did not personally use this, but I know someone who used this to import some sound bars and speakers. Based on their experience, it involves a little bit of hassle since you have to go to customs to get your shipment cleared (and grease some palms along the way), but it may be worth it if you want to buy some expensive electronics
+If you are returning to settle in India, you may qualify for a [customs duty exemption/reduction](https://www.globemoving.net/indian-import-customs-regulations). I did not personally use this, but I know someone who used this to import some sound bars and speakers. Based on their experience, it involves a little bit of hassle since you have to go to customs to get your shipment cleared (and grease some palms along the way), but it may be worth it if you want to buy some expensive electronics
