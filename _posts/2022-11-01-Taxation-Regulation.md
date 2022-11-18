@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Financial Planning"
+title:  "Taxation and Regulations"
 author: tanmay
 date:   2022-11-01 01:10:00 -0600
 categories: Financials 401k Bank Brokerage

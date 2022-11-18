@@ -2,7 +2,7 @@
 layout: post
 title:  "First Few Days"
 author: tanmay
-date:   2022-11-01 02:10:00 -0600
+date:   2022-11-01 01:40:00 -0600
 ---
 - [Funny Experiences](#funny)
 - [Negative Experiences](#negative)

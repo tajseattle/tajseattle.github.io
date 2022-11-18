@@ -48,7 +48,7 @@ So in a nutshell, here is the recommended flow. Port your primary number to Goog
 
 ## **2. Bank, Brokerage, Retirement and HSA accounts** {#brokerage}
 	
-Assuming you don't have a green card or a US passport, your tax status will likely change to non-resident alien after you leave (typically starting the next tax year). This will affect taxation, whether you can keep your existing accounts open etc ([read more in the Financial Planning section]({% post_url 2022-11-01-Financial-Planning %}#US-Assets)). With that in mind: 
+Assuming you don't have a green card or a US passport, your tax status will likely change to non-resident alien after you leave (typically starting the next tax year). This will affect taxation, whether you can keep your existing accounts open etc ([read more in the Taxation and Regulations section]({% post_url 2022-11-01-Taxation-Regulation %}#US-Assets)). With that in mind: 
 	
 1. **Open spare bank, brokerage and retirement accounts before leaving** - Once you are a nonresident, most banks won’t let you open new accounts, and some will force you to close your existing accounts. Finding out which ones allow you to keep your existing accounts open is a crapshoot, and I personally had to spend a few hours on the phone with each bank to get an answer(Customer service typically doesn't know, and they have to connect you to the back office). Having extra accounts gives you the flexibility to rollover funds/stocks in case one of your existing institutions closes your accounts.
 
@@ -81,15 +81,15 @@ Assuming you don't have a green card or a US passport, your tax status will like
 	 
      - Schwab debit cards let you withdraw money anywhere in the world without any foreign transaction or ATM charges. Make sure to get one of these before leaving
 <br><br/>
-5. **Note** - you have to let your bank/brokerage know of your nonresident status via a Form W8-BEN. It is critical you do this correctly, since nonresident taxation affects how taxes are withheld. This is discussed in more detail in the [Financial Planning section]({% post_url 2022-11-01-Financial-Planning %}).
+5. **Note** - you have to let your bank/brokerage know of your nonresident status via a Form W8-BEN. It is critical you do this correctly, since nonresident taxation affects how taxes are withheld. This is discussed in more detail in the [Taxation and Regulations section]({% post_url 2022-11-01-Taxation-Regulation %}).
 
 6. **Special Note: Retirement accounts**
 
-    I will talk about this in greater detail in the [Financial Planning Section]({% post_url 2022-11-01-Financial-Planning %}#Retirement-Accounts). Please consult a tax advisor specializing in non-resident taxation. Basically, if you are going to do a rollover from traditional to Roth, you might want to do it as a US resident. Once you are a non-resident, there is mandatory withholding while doing the rollover, and the withholding itself counts as a unqualified distribution so it will incur early withdrawal penalty.
+    I will talk about this in greater detail in the [Taxation and Regulations Section]({% post_url 2022-11-01-Taxation-Regulation %}#Retirement-Accounts). Please consult a tax advisor specializing in non-resident taxation. Basically, if you are going to do a rollover from traditional to Roth, you might want to do it as a US resident. Once you are a non-resident, there is mandatory withholding while doing the rollover, and the withholding itself counts as a unqualified distribution so it will incur early withdrawal penalty.
 
 7. **Special Note: Health Savings Account** 
 
-    Roll over your HSA to a provider that does not charge maintenance fees (e.g. Fidelity). Sometimes this process requires you to sign and send forms, so best start it early. At least with Fidelity, the entire process was online but I had to call in since there was some backend issue. Fidelity also typically lets you upload scanned documents instead of mailing them physically. [Further reading in the Financial Planning section]({% post_url 2022-11-01-Financial-Planning %}#Health-Savings-Account).
+    Roll over your HSA to a provider that does not charge maintenance fees (e.g. Fidelity). Sometimes this process requires you to sign and send forms, so best start it early. At least with Fidelity, the entire process was online but I had to call in since there was some backend issue. Fidelity also typically lets you upload scanned documents instead of mailing them physically. [Further reading in the Taxation and Regulations section]({% post_url 2022-11-01-Taxation-Regulation %}#Health-Savings-Account).
 
 ## **3. Credit cards** {#credit-cards}
 1. Most US credit cards no longer work in India, even if they are marketed as having zero foreign transaction fees cards. This is due to RBI regulations, and your bank will be unable to tell you if your card will work in India or not.
